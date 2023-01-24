@@ -133,10 +133,7 @@ Write-chost "
 # This function return the menu and a vulcain eruption 
 Function Menu{
 Vulkain_ascii
-Write-Host "`n`nVulkain v1.0 (25/01/2019)" -ForeGroundColor darkred
-Write-Host "Author: LEGUY Olivier | IDIRI Sami | RAKOTOMALALA Manase | SOYEZ Pol"
-Write-Host "Powered by Obsidian Security"
-Write-Host "contact : contact@obsidiansecurity.eu`n"
+Write-Host "`n`nVulkain v1.0" -ForeGroundColor darkred"
 
 do {
     try {
